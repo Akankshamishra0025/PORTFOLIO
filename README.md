@@ -1,6 +1,7 @@
 Portfolio Project:
 
 Welcome to my Portfolio Project! This repository contains the source code for my personal portfolio website, showcasing my work, skills, and accomplishments as a developer.
+
 You can view my portfolio live at ["https://github.com/Akankshamishra0025/PORTFOLIO"]
 
 Table of Contents:
@@ -30,8 +31,11 @@ Features:
 Technologies Used:
 
 This project was built using:
+
 •	HTML
+
 •	CSS
+
 •	Images
 
 Usage:
